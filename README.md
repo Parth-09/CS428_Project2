@@ -1,4 +1,5 @@
 # CS428_Project2
+TAs & PROFESSOR PLEASE READ!!!!
 
 We accidentally uploaded an update to the project even though we have our final commit posted 
 from the due date on October 15. You can see in the Commit History that the final commit
